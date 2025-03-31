@@ -10,7 +10,7 @@ namespace PrimerProyectoVS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola Visual Studio y GibHub");
+            Console.WriteLine("Hola Visual Studio y GibHub clonado");
         }
     }
 }
