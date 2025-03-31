@@ -10,7 +10,7 @@ namespace PrimerProyectoVS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola Visual Studio y GibHub clonado elimino sesion de cuenta github");
+            Console.WriteLine("Hola Visual Studio y GibHub clonado elimino sesion de cuenta github final");
         }
     }
 }
